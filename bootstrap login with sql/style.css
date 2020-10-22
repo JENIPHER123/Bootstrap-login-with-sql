@@ -1,0 +1,86 @@
+.login-container{
+    height: 100vh; 
+    width: 100%;
+    font-family: serif;
+    color: gray;
+} 
+h1{
+    font-family: serif;
+    color: gray;  
+}
+form{
+    width: 32em;
+}
+.body{
+    background: url('images/1.jpg') no-repeat;
+    margin: 0;
+    padding: 0;
+    
+}
+.header1{
+    width: 100%;
+   
+}
+
+
+.navbar{
+    background: black;
+    height: fit-content;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   
+
+}
+
+.navbar .row{
+   width: 100%;
+   padding: 12px;
+  
+   padding-bottom: 10px;
+}
+
+.header1 .navbar .navbar-nav li a{
+    color: white;
+    font-size: 1.6em;
+    font-family: serif;
+   padding-left: 1em;
+   padding-right: 12px;
+   text-align: center;
+   
+}
+.navbar .row .col-md-6 h1{
+    font-size: 5em;
+    color: red; 
+}
+.navbar .row .col-md-6 .navbar-nav{
+    padding-top: 25px;
+    
+}
+.navbar .row .col-md-6 .navbar-nav li a:hover{
+    color: red;
+}
+.cont{
+    
+    background: rgba(230, 209, 209, 0.6);
+    width: 60%;
+    padding: 5em;
+    color: black;
+}
+.cont h1{
+    color: black;
+    margin-bottom: 35px;
+    
+}
+#two,#three,#four{ 
+    display: none;
+}
+section{
+    margin-top: 25px;
+}
+#one1{
+    color: red;
+}
+
+    
+
